@@ -1,1 +1,1 @@
-worker: node index.js cunbot
+worker: node index.js
